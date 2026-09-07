@@ -32,4 +32,4 @@ Watch the dashboard demonstration video above.
 
 ## 👤 Author
 
-Your Name
+Deepak Singh Yadav 
